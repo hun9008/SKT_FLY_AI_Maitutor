@@ -25,17 +25,17 @@ Many students in rural or educationally underserved areas suffer from a lack of 
 
     • Real-time, personalized math tutoring.
 
-    • AI-driven problem-solving engine capable of interpreting bothtext and handwritten math problems.
+    • AI-driven problem-solving engine capable of interpreting both text and handwritten math problems.
 2.	OCR (Optical Character Recognition):
 
-    • Integration with Google Vision, OpenCV, and other advanced toolsto interpret handwritten problems.
+    • Integration with Google Vision, OpenCV, and other advanced tools to interpret handwritten problems.
 
     • Can recognize and solve math problems using a mix of GoogleVision, Claude, and Llama 3.1 engines.
 3.	User Progress Feedback:
 
     • Constant monitoring of user performance (e.g., user statedetection: “Doing,” “Wrong,” “Solve”, or "Delay").
 
-    • Feedback and adaptive learning paths based on individualperformance.
+    • Feedback and adaptive learning paths based on individual performance.
 4.	Educational Data Analysis:
 
     • Analyzes user learning data, including problem-solving accuracyand time spent on tasks.
